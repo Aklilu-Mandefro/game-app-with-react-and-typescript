@@ -1,5 +1,5 @@
 <h1 align="center">
-  <h1 align="center">A Simple Snake Game application Built with React and typescript</h1>
+  <h1 align="center">A Simple snake game application built with React and typescript</h1>
 </h1>
 
 ## Motivation
@@ -38,3 +38,7 @@ yarn run start
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENCE.md) file for details
+
+## 🙋‍♂️ Support
+#### 💙 If you like this project, give it a ⭐ and share it with friends!
+
